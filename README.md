@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-基于深度学习和MediaPipe的实时手势识别交互系统，支持0-9数字手势和OK手势的识别。
+基于深度学习和MediaPipe的实时手势识别交互系统，支持0-8数字手势和OK手势的识别。
 
 ## 📋 目录
 
