@@ -9,15 +9,15 @@
 ## 📋 目录
 
 - [项目简介](#project-introduction)
-- [主要功能](#主要功能)
-- [技术架构](#技术架构)
-- [环境要求](#环境要求)
-- [安装步骤](#安装步骤)
-- [使用方法](#使用方法)
-- [项目结构](#项目结构)
-- [模型训练](#模型训练)
-- [性能指标](#性能指标)
-- [常见问题](#常见问题)
+- [主要功能](#main-functions)
+- [技术架构](#technical-architecture)
+- [环境要求](#requirements)
+- [安装步骤](#installation)
+- [使用方法](#usage)
+- [项目结构](#project-structure)
+- [模型训练](#model-training)
+- [性能指标](#performance)
+- [常见问题](#faq)
 <a name="project-introduction"></a>
 ## 🎯 项目简介
 
